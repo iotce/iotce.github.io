@@ -4,9 +4,9 @@ jQuery(document).ready(function() {
 
     function b() {
         var a = {
-                zoom: 11,
+                zoom: 4,
                 scrollwheel: false,
-                center: new google.maps.LatLng(40.67, -73.94),
+                center: new google.maps.LatLng(36.7352375,-4.5566861),
                 styles: [{
                     "featureType": "landscape",
                     "stylers": [
@@ -127,9 +127,9 @@ jQuery(document).ready(function() {
             b = document.getElementById("map"),
             c = new google.maps.Map(b, a);
         new google.maps.Marker({
-            position: new google.maps.LatLng(40.67, -73.94),
+            position: new google.maps.LatLng(36.7352375,-4.5566861),
             map: c,
-            title: "Snazzy!"
+            title: "IoTc"
         })
     }
     google.maps.event.addDomListener(window, "load", b);
