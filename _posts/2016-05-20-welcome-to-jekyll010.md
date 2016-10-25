@@ -1,6 +1,6 @@
 ---
 layout: post
-title: imagenes
+title: img
 subtitle: Cambiamos nuestra sede comercial
 date: 2015-05-20 21:11:27
 author: kgnete

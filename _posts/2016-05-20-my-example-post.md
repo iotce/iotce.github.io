@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presentaciones"
+title: Slides
 ---
 
 ### copitg 2.014

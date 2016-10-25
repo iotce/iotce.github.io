@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Formulario
+title: Form
 subtitle: para una clave temporal
 date: 2016-05-20 21:11:27
 author: kgnete
